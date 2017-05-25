@@ -6,7 +6,7 @@ date = "2016-05-01"
 highlight = true
 image_preview = "tivy_teaser.png"
 math = false
-publication = "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+publication = "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)"
 publication_short = "CHI"
 publication_types = ["1"]
 selected = false
@@ -17,6 +17,7 @@ url_pdf = "pdf/tivy.pdf"
 url_project = ""
 url_slides = ""
 url_video = "vid/tivy.mp4"
+url_bib = "bib/tivy.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

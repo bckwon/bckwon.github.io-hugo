@@ -17,6 +17,7 @@ url_pdf = "pdf/vlat.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/182970712"
+url_bib = "bib/vlat.bib"
 
 [[url_custom]]
 name = "Supplementary Material"

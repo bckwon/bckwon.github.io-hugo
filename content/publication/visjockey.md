@@ -17,6 +17,7 @@ url_pdf = "pdf/visjockey.pdf"
 url_project = ""
 url_slides = ""
 url_video = "vid/visjockey.mp4"
+url_bib = "bib/visjockey.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

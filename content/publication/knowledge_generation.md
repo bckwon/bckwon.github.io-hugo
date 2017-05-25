@@ -17,6 +17,7 @@ url_pdf = "pdf/kgva.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/kgva.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

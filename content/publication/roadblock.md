@@ -17,6 +17,7 @@ url_pdf = "pdf/roadblock.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/roadblock.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

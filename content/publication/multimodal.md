@@ -17,6 +17,7 @@ url_pdf = "pdf/multimodal.pdf"
 url_project = ""
 url_slides = ""
 url_video = "vid/multimodal.mp4"
+url_bib = "bib/multimodal.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

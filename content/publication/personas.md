@@ -17,6 +17,7 @@ url_pdf = "pdf/personas.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/personas.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"
@@ -24,7 +25,7 @@ url_video = ""
 
 [header]
   caption = "Clusters of survey participants based on the four persona scores."
-  image = "visohc_teaser.png"
+  image = "personas_teaser.png"
 
 +++
 

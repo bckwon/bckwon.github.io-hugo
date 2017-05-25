@@ -17,6 +17,7 @@ url_pdf = "pdf/overload.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/overload.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

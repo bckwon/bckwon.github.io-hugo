@@ -17,6 +17,7 @@ url_pdf = "pdf/event_detection_text.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/event_detection_text.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

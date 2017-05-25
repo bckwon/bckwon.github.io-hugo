@@ -17,6 +17,7 @@ url_pdf = "pdf/noncompliance.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/noncompliance.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

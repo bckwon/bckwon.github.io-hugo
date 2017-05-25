@@ -17,6 +17,7 @@ url_pdf = "pdf/spherical.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/spherical.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

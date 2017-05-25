@@ -17,6 +17,7 @@ url_pdf = "pdf/timeinvestigator.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/timeinvestigator.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

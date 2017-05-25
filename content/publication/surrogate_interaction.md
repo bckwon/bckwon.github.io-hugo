@@ -6,7 +6,7 @@ date = "2011-05-01"
 highlight = true
 image_preview = "surrogate_interaction_teaser.png"
 math = false
-publication = "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+publication = "ACM SIGCHI Conference on Human Factors in Computing Systems (CHI)"
 publication_short = "CHI"
 publication_types = ["1"]
 selected = false
@@ -17,6 +17,7 @@ url_pdf = "pdf/surrogate_interaction.pdf"
 url_project = ""
 url_slides = ""
 url_video = "vid/surrogate_interaction.mp4"
+url_bib = "bib/surrogate_interaction.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

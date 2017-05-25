@@ -17,6 +17,7 @@ url_pdf = "pdf/ambient.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/ambient.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

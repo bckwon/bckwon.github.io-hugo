@@ -17,6 +17,7 @@ url_pdf = "pdf/readingmate.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/readingmate.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

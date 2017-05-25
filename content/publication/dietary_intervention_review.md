@@ -17,6 +17,7 @@ url_pdf = "pdf/hhreview.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/hhreview.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

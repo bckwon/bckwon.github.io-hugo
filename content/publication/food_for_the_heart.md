@@ -17,6 +17,7 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/ffh.bib"
 
 [[url_custom]]
  name = "Google Books"

@@ -17,6 +17,7 @@ url_pdf = "pdf/text_highlighting.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/136278904"
+url_bib = "bib/text_highlighting.bib"
 
 [[url_custom]]
 name = "Supplementary Material"

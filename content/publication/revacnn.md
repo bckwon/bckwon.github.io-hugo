@@ -17,6 +17,7 @@ url_pdf = "pdf/revacnn.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://www.youtube.com/watch?v=p6TNfSuLdYk"
+url_bib = "bib/revacnn.bib"
 
 [[url_custom]]
 name = "Poster"

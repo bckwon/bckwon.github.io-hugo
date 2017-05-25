@@ -17,6 +17,7 @@ url_pdf = "pdf/crowdsourcing_efficacy.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/crowdsourcing_efficacy.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

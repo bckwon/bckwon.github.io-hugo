@@ -17,10 +17,15 @@ url_pdf = "pdf/axisketcher.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/189153474"
+url_bib = "bib/axisketcher.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"
 #url = "pdf/vlat_sup.pdf"
+
+#[[url_custom]]
+#name = "Bibtex"
+#url = "bib/axisketcher.bib"
 
 [header]
   caption = "AxiSketcher transforms user's drawing to scatterplot axes, represented as Axis Rainbow."

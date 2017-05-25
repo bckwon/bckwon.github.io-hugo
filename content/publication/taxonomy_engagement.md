@@ -17,6 +17,7 @@ url_pdf = "pdf/taxonomy_engagement.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/taxonomy_engagement.bib"
 
 #[[url_custom]]
 #name = "Poster"

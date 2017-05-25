@@ -17,6 +17,7 @@ url_pdf = "pdf/visohc.pdf"
 url_project = ""
 url_slides = ""
 url_video = "vid/visohc.mp4"
+url_bib = "bib/visohc.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"

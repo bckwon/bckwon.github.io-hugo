@@ -17,6 +17,7 @@ url_pdf = "pdf/peekquence.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/peekquence.bib"
 
 [[url_custom]]
 name = "Poster"

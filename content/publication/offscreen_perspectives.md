@@ -17,6 +17,7 @@ url_pdf = "pdf/offscreen_perspectives.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+url_bib = "bib/offscreen_perspectives.bib"
 
 #[[url_custom]]
 #name = "Poster"

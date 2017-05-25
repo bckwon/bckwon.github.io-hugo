@@ -17,6 +17,7 @@ url_pdf = "pdf/uncertainty_model_trust.pdf"
 url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/136206312"
+url_bib = "bib/uncertainty_model_trust.bib"
 
 #[[url_custom]]
 #name = "Supplementary Material"
