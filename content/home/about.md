@@ -22,27 +22,32 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Researcher"
-  institution = "IBM T.J. Watson Research Center"
+  institution = "IBM T.J. Watson Research Center, Yorktown Heights, NY"
   year = "2016 - Current"
 
 [[education.courses]]
+  course = "Adjunct Lecturer"
+  institution = "Columbia University, New York, NY"
+  year = "2017 - Current"
+
+[[education.courses]]
   course = "Postdoc in Visual Analytics"
-  institution = "Universität Konstanz"
+  institution = "Universität Konstanz, Konstanz, Germany"
   year = 2015
 
 [[education.courses]]
-  course = "PhD in Data Visualization"
-  institution = "Purdue University"
+  course = "Ph.D. in Data Visualization"
+  institution = "Purdue University, West Lafayette, IN"
   year = 2013
 
 [[education.courses]]
   course = "M.S. in Industrial Engineering"
-  institution = "Purdue University"
+  institution = "Purdue University, West Lafayette, IN"
   year = 2010
 
 [[education.courses]]
   course = "BS in Systems Engineering"
-  institution = "University of Virginia"
+  institution = "University of Virginia, Charlottesville, VA"
   year = 2008
  
 +++
