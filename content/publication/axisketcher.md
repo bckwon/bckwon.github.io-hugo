@@ -16,7 +16,7 @@ url_dataset = ""
 url_pdf = "pdf/axisketcher.pdf"
 url_project = ""
 url_slides = ""
-url_video = "https://vimeo.com/189153474"
+url_video = "vid/axisketcher.mp4"
 url_bib = "bib/axisketcher.bib"
 
 #[[url_custom]]
