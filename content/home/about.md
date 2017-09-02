@@ -46,7 +46,7 @@ weight = 1
   year = 2010
 
 [[education.courses]]
-  course = "BS in Systems Engineering"
+  course = "B.S. in Systems Engineering"
   institution = "University of Virginia, Charlottesville, VA"
   year = 2008
  
