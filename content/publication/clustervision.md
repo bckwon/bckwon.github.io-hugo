@@ -18,6 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/232177941"
 url_bib = "bib/clustervision.bib"
+video_id = "232177941"
 
 #[[url_custom]]
 #name = "Supplementary Material"

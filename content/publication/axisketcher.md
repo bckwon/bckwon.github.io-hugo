@@ -18,6 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/189153474"
 url_bib = "bib/axisketcher.bib"
+video_id = "189153474"
 
 #[[url_custom]]
 #name = "Supplementary Material"
