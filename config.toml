@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
   skype = "bumchulkwon@hotmail.com"
   telegram = ""
   description = "Bum Chul Kwon, Ph.D. - IBM T.J. Watson Research Center"
-  metadesc = "I am Bum Chul Kwon ('BC'), a researcher of data visualization and visual analytics at the Healthcare Analytics Research Group in IBM T.J. Watson Research Center. My research area includes visual analytics, data visualization, human-computer interaction, healthcare, and machine learning. My research goal is to enhance users' abilities to derive knowledge from various forms of data through development of interactive visual analytics systems."
+  metadesc = "I am Bum Chul Kwon ('BC'), a researcher of data visualization and visual analytics at the Healthcare Analytics Research Group in IBM T.J. Watson Research Center. My research area includes visual analytics, data visualization, human-computer interaction, healthcare, and machine learning. My research goal is to enhance users' abilities to derive knowledge from various forms of data through development of interactive visual analytics systems. This website includes research publications, teaching materials, and working experiences of Bum Chul Kwon."
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
