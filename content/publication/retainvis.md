@@ -17,9 +17,9 @@ url_pdf = "pdf/retainvis.pdf"
 url_project = ""
 url_slides = ""
 url_talk = ""
-url_video = "vid/retainvis.mp4"
+url_video = "https://vimeo.com/272587219"
 url_bib = "bib/retainvis.bib"
-video_id = ""
+video_id = "272587219"
 
 [[url_custom]]
 name = "Arxiv"
