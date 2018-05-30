@@ -16,7 +16,7 @@ url_dataset = ""
 url_pdf = "pdf/visjockey.pdf"
 url_project = ""
 url_slides = ""
-url_video = "vid/visjockey.mp4"
+url_video = ""
 url_bib = "bib/visjockey.bib"
 
 #[[url_custom]]
@@ -26,6 +26,7 @@ url_bib = "bib/visjockey.bib"
 [header]
   caption = "As a user clicks on a story piece in text, VisJockey plays a series of preloaded actions that illustrate the corresponding stories."
   image = "visjockey_teaser.png"
+  
 
 +++
 

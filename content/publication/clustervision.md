@@ -32,6 +32,7 @@ video_id = "232177941"
 [header]
   caption = "Clustervision helps ensure data scientists find the right clustering among the large amount of techniques and parameters available."
   image = "clustervision_teaser.png"
+  video_caption = "In this paper, we introduce a novel visual analytics technique, called Clustervision, that helps users explore clustering results from various clustering techniques and parameters. Clustervision helps ensure data scientists find the right clustering among the large amount of techniques and parameters available."
 
 +++
 

@@ -23,9 +23,10 @@ url_bib = "bib/text_highlighting.bib"
 name = "Supplementary Material"
 url = "pdf/text_highlighting_sup.pdf"
 
-#[header]
-#  caption = "Spherical Similarity Explorer."
-#  image = "sse_teaser.png"
+[header]
+  caption = "Spherical Similarity Explorer."
+  image = "sse_teaser.png"
+  video_caption = "In this paper, we evaluate the effects of common text highlighting techniques on users' task performances through a series of crowdsourced user studies. We provide ranking of text highlighting techniques and discuss pros and cons of the use of a variety of combinations."
 
 +++
 

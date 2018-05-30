@@ -26,6 +26,7 @@ url_bib = "bib/uncertainty_model_trust.bib"
 [header]
   caption = "Knowledge generation model for visual analytics with uncertainty propagation and human trust building."
   image = "uncertainty_trust_model_teaser.png"
+  video_caption = "This paper unpacks the uncertainties that propagate through visual analytics systems, illustrates how human's perceptual and cognitive biases influence the user's awareness of such uncertainties, and how this affects the user's trust building."
 
 +++
 

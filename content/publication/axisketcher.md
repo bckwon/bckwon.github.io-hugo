@@ -32,6 +32,7 @@ video_id = "189153474"
 [header]
   caption = "AxiSketcher transforms user's drawing to scatterplot axes, represented as Axis Rainbow."
   image = "axisketcher_teaser.png"
+  video_caption = "In this paper, we introduce a novel visual analytics technique, called AxiSketcher, that transforms user's drawing into nonlinear axes for 2D scatterplot. User can further edit the user-defined axes on Axis Rainbow."
 
 +++
 

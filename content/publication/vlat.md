@@ -26,6 +26,7 @@ url = "pdf/vlat_sup.pdf"
 [header]
   caption = "12 visualizations used to assess visualization literacy in the paper"
   image = "vlat_teaser.png"
+  video_caption = "This video introduces our motivation and method to develope a standardized test instrument for visualization literacy."
 
 +++
 

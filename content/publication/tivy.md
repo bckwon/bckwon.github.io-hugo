@@ -26,6 +26,7 @@ url = "pdf/tivy_sup.pdf"
 [header]
   caption = "Teaching parallel coordinates through an interactive tutorial."
   image = "tivy_teaser.png"
+  video_caption = "This short video shows an example of how a participant learned Parallel Coordinates through Mapping task."
 
 +++
 

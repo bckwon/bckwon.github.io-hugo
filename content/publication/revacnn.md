@@ -26,6 +26,7 @@ url = "pdf/revacnn_poster.pdf"
 [header]
   caption = "Peekquence consists of four views: (A) the sequence network view; (B) the event co-occurence histogram view; (C) the pattern list view; (D) the patient timeline view."
   image = "revacnn_teaser.png"
+  video_caption = "ReVACNN helps users monitor and interact with the training process of a convoluntional neural network with graph visualization in real time."
 
 +++
 

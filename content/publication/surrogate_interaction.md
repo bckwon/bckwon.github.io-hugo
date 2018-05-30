@@ -26,6 +26,7 @@ url_bib = "bib/surrogate_interaction.bib"
 [header]
   caption = "Sketches for visualizing multimodal social networks developed collaboratively by social scientists and visual analytics experts."
   image = "surrogate_interaction_teaser.png"
+  video_caption = "In this paper, we introduce the notion of Surrogate Interaction that ties together a large subset of these techniques through the use of a surrogate object that allow users to interact with the surrogate instead of the domain object."
 
 +++
 

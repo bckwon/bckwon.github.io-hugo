@@ -26,6 +26,7 @@ url_bib = "bib/multimodal.bib"
 [header]
   caption = "Sketches for visualizing multimodal social networks developed collaboratively by social scientists and visual analytics experts."
   image = "multimodal_teaser.png"
+  video_caption = "This short video introduces our motivation and method of this study. In this study, we conducted a design study with social scientists and we developed various features that help the experts explore multimodal social network through our system."
 
 +++
 
