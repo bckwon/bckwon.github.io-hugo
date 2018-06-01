@@ -18,6 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/182970712"
 url_bib = "bib/vlat.bib"
+video_id = "182970712"
 
 [[url_custom]]
 name = "Supplementary Material"
