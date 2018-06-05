@@ -24,6 +24,10 @@ video_id = "182970712"
 name = "Supplementary Material"
 url = "pdf/vlat_sup.pdf"
 
+[[url_custom]]
+name = "VLAT Test on Web"
+url = "https://vlat.herokuapp.com"
+
 [header]
   caption = "12 visualizations used to assess visualization literacy in the paper"
   image = "vlat_teaser.png"
