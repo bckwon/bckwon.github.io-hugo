@@ -31,7 +31,7 @@ url = "https://vlat.herokuapp.com"
 [header]
   caption = "12 visualizations used to assess visualization literacy in the paper"
   image = "vlat_teaser.png"
-  video_caption = "This video introduces our motivation and method to develope a standardized test instrument for visualization literacy."
+  video_caption = "This short video introduces our motivation and method to develop a standardized test instrument for visualization literacy."
 
 +++
 
