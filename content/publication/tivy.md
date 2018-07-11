@@ -23,6 +23,10 @@ url_bib = "bib/tivy.bib"
 name = "Supplementary Material"
 url = "pdf/tivy_sup.pdf"
 
+[[url_custom]]
+name = "Web Prototype"
+url = "https://tivy.herokuapp.com"
+
 [header]
   caption = "Teaching parallel coordinates through an interactive tutorial."
   image = "tivy_teaser.png"

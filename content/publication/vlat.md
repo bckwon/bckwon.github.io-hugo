@@ -25,7 +25,7 @@ name = "Supplementary Material"
 url = "pdf/vlat_sup.pdf"
 
 [[url_custom]]
-name = "VLAT Test on Web"
+name = "Web Prototype"
 url = "https://vlat.herokuapp.com"
 
 [header]
