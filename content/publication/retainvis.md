@@ -6,9 +6,9 @@ date = "2018-05-28"
 highlight = true
 image_preview = "retainvis_teaser.png"
 math = false
-publication = "Arxiv.org"
-publication_short = "Arxiv"
-publication_types = ["4"]
+publication = "IEEE Transactions on Visualization and Computer Graphics"
+publication_short = "TVCG"
+publication_types = ["2"]
 selected = false
 title = "RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records"
 url_code = ""
@@ -21,9 +21,9 @@ url_video = "https://vimeo.com/272587219"
 url_bib = "bib/retainvis.bib"
 video_id = "272587219"
 
-[[url_custom]]
-name = "Arxiv"
-url = "https://arxiv.org/abs/1805.10724"
+#[[url_custom]]
+#name = "Arxiv"
+#url = "https://arxiv.org/abs/1805.10724"
 
 #[[url_custom]]
 #name = "Bibtex"
