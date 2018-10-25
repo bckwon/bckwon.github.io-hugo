@@ -21,13 +21,13 @@ url_video = "https://vimeo.com/272587219"
 url_bib = "bib/retainvis.bib"
 video_id = "272587219"
 
-#[[url_custom]]
-#name = "Arxiv"
-#url = "https://arxiv.org/abs/1805.10724"
+[[url_custom]]
+name = "Arxiv"
+url = "https://arxiv.org/abs/1805.10724"
 
-#[[url_custom]]
-#name = "Bibtex"
-#url = "bib/axisketcher.bib"
+[[url_custom]]
+name = "Code"
+url = "https://github.com/minjechoi/RetainVis"
 
 [header]
   caption = "RetainVis provides multiple, coordinated views, which make the underlying RNN model more interpretable and interactive."
