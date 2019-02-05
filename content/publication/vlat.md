@@ -21,8 +21,12 @@ url_bib = "bib/vlat.bib"
 video_id = "182970712"
 
 [[url_custom]]
-name = "Supplementary Material"
+name = "Problem Sets"
 url = "pdf/vlat_sup.pdf"
+
+[[url_custom]]
+name = "Answers Sets"
+url = "pdf/vlat_answers.pdf"
 
 [[url_custom]]
 name = "Web Prototype"
