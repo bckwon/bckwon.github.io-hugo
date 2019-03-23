@@ -18,6 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/136278904"
 url_bib = "bib/text_highlighting.bib"
+video_id = "136278904"
 
 [[url_custom]]
 name = "Supplementary Material"
