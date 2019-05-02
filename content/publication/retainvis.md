@@ -22,7 +22,7 @@ url_bib = "bib/retainvis.bib"
 video_id = "272587219"
 
 [[url_custom]]
-name = "Arxiv"
+name = "arXiv"
 url = "https://arxiv.org/abs/1805.10724"
 
 [[url_custom]]
