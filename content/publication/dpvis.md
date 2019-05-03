@@ -18,6 +18,7 @@ url_slides = ""
 url_talk = ""
 url_video = "vid/dpvis.mp4"
 url_bib = "bib/dpvis.bib"
+url_webapp = ""
 video_id = ""
 
 [[url_custom]]

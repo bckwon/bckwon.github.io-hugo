@@ -18,14 +18,11 @@ url_project = ""
 url_slides = ""
 url_video = "vid/tivy.mp4"
 url_bib = "bib/tivy.bib"
+url_webapp = "https://tivy.herokuapp.com"
 
 [[url_custom]]
 name = "Supplementary Material"
 url = "pdf/tivy_sup.pdf"
-
-[[url_custom]]
-name = "Web Prototype"
-url = "https://tivy.herokuapp.com"
 
 [header]
   caption = "Teaching parallel coordinates through an interactive tutorial."

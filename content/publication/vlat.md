@@ -18,7 +18,9 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/182970712"
 url_bib = "bib/vlat.bib"
+url_webapp = "https://vlat.herokuapp.com"
 video_id = "182970712"
+
 
 [[url_custom]]
 name = "Problem Sets"
@@ -27,10 +29,6 @@ url = "pdf/vlat_sup.pdf"
 [[url_custom]]
 name = "Answers Sets"
 url = "pdf/vlat_answers.pdf"
-
-[[url_custom]]
-name = "Web Prototype"
-url = "https://vlat.herokuapp.com"
 
 [header]
   caption = "12 visualizations used to assess visualization literacy in the paper"

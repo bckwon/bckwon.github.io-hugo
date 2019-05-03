@@ -19,6 +19,7 @@ url_slides = ""
 url_talk = "https://vimeo.com/238468808"
 url_video = "https://vimeo.com/232177941"
 url_bib = "bib/clustervision.bib"
+url_webapp = "https://clustervision.mybluemix.net"
 video_id = "232177941"
 
 #[[url_custom]]
