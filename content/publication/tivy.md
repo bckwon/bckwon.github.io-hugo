@@ -22,7 +22,7 @@ url_webapp = "https://tivy.herokuapp.com"
 
 [[url_custom]]
 name = "Supplementary Material"
-url = "pdf/tivy_sup.pdf"
+url = "pdf/tivy_static.pdf"
 
 [header]
   caption = "Teaching parallel coordinates through an interactive tutorial."
