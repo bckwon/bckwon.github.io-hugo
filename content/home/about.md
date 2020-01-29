@@ -54,4 +54,4 @@ weight = 1
 
 # Hi, everyone!
 
-I am Bum Chul Kwon ("BC"), a research scientist of data visualization and visual analytics in the Healthcare Analytics Research Group at IBM Research, Cambridge, MA. My research area includes visual analytics, data visualization, human-computer interaction, healthcare, and machine learning. My research goal is to enhance users' abilities to derive knowledge from various forms of data through development of interactive visual analytics systems.
+I am Bum Chul Kwon ("BC"), a research scientist at IBM Research, Cambridge, MA. My research goal is to enhance users' abilities to gain insights from data through interactive visualization systems. I am also interested in making machine learning algorithms more transparent, solving real-world heathcare problems, and improving data visualization literacy!
