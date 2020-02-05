@@ -16,9 +16,10 @@ url_dataset = ""
 url_pdf = "pdf/guicomp.pdf"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://vimeo.com/389414088"
 url_bib = "bib/guicomp.bib"
 url_webapp = ""
+video_id = "389414088"
 
 [[url_custom]]
 name = "arXiv"
@@ -29,9 +30,9 @@ url = "https://arxiv.org/abs/2001.05684"
 #url = "pdf/tivy_static.pdf"
 
 [header]
-  caption = "An overview of GUIComp. GUIComp is a design assistive system that supports users' GUI design process by providing real-time, multi-faceted feedback through three different methods: relevant examples, evaluation metrics, and attention heatmap. The tool can be appended to GUI design applications as an add-on tool with some configuration efforts.(A1-3) shows an exemplary GUI design tool called Kakao Oven, and GUIComp (B-D) extracts the current progresses from A2 and computationally generate relevant feedback."
+  caption = "An overview of GUIComp. GUIComp is a design assistive system that supports users' GUI design process by providing real-time, multi-faceted feedback through three different methods: relevant examples, evaluation metrics, and attention heatmap. The tool can be appended to GUI design applications as an add-on tool with some configuration efforts. (A1-3) shows an exemplary GUI design tool called Kakao Oven, and GUIComp (B-D) extracts the current progresses from A2 and computationally generate relevant feedback."
   image = "guicomp.jpg"
-  video_caption = "This video demonstrates how GUIComp can be helpful for users to find better designs of UI using the guidance provided as multi-faceted feedback."
+  video_caption = "This video demonstrates how GUIComp can be helpful for users to find better designs of UI using the guidance provided as multi-faceted feedback. GUIComp is a design assistive system that supports users' GUI design process by providing real-time, multi-faceted feedback through three different methods: relevant examples, evaluation metrics, and attention heatmap. The tool can be appended to GUI design applications as an add-on tool with some configuration efforts."
 
 +++
 
