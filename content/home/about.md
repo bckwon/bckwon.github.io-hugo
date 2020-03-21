@@ -54,4 +54,4 @@ weight = 1
 
 # Hi, everyone!
 
-I am Bum Chul Kwon ("BC"), a research scientist at IBM Research, Cambridge, MA. My research goal is to enhance users' abilities to gain insights from data through interactive visualization systems. I am also interested in making machine learning algorithms more transparent, solving real-world heathcare problems, and improving data visualization literacy!
+I am Bum Chul Kwon ("BC"), a research scientist at IBM Research, Cambridge, MA. My research goal is to enhance users' abilities to gain insights into data through interactive visualization systems. I am also interested in making machine learning algorithms more transparent, solving real-world heathcare problems, and improving data visualization literacy!
