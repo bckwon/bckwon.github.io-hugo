@@ -49,6 +49,11 @@ weight = 1
   course = "B.S. in Systems Engineering"
   institution = "University of Virginia, Charlottesville, VA"
   year = 2008
+
+[[education.courses]]
+  course = "Civil Engineering"
+  institution = "Seoul National University, Seoul, Republic of Korea"
+  year = "2002 - 2004"
  
 +++
 
