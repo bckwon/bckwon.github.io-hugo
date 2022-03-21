@@ -20,20 +20,35 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
+[[work.courses]]
   course = "Research Scientist"
   institution = "IBM Research, Cambridge, MA"
-  year = "2016 - Current"
+  year = "2016 - Present"
 
-[[education.courses]]
-  course = "Lecturer"
-  institution = "Columbia University, New York, NY"
-  year = "2017 - Current"
+[[work.courses]]
+  course = "Adjunct Professor"
+  institutions = ["Columbia University, New York, NY (2017 - Present)", "University of Pennsylvania, Philadelphia, PA (2018 - Present)", "University of California, Berkelley, CA (2019 - Present)"]
+  year = "2017 - Present"
 
-[[education.courses]]
-  course = "Postdoc in Visual Analytics"
+[[work.courses]]
+  course = "Postdoc Researcher"
   institution = "Universität Konstanz, Konstanz, Germany"
-  year = 2015
+  year = "2013 - 2015"
+
+# [[work.courses]]
+# course = "Adjunct Professor"
+#  institution = "University of Pennsylvania, Philadelphia, PA"
+#  year = "2018 - Present"
+
+# [[work.courses]]
+#  course = "Adjunct Professor"
+#  institution = "University of California, Berkelley, CA"
+#  year = "2019 - Present"
+
+# [[work.courses]]
+#  course = "Postdoc Researcher"
+#  institution = "Universität Konstanz, Konstanz, Germany"
+#  year = "2013 - 2015"
 
 [[education.courses]]
   course = "Ph.D. in Data Visualization"
