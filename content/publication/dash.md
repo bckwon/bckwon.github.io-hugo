@@ -10,6 +10,7 @@ publication_short = "EuroVis-Short"
 publication_types = ["1"]
 selected = false
 title = "DASH: Visual Analytics for Debiasing Image Classification via User-Driven Synthetic Data Augmentation"
+award = "Honorable Mention"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/dash.pdf"
