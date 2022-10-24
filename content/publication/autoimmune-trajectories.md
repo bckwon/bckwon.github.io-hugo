@@ -10,7 +10,7 @@ publication_short = "NatureComm"
 publication_types = ["2"]
 selected = false
 title = "Progression Of Type 1 Diabetes From Latency To Symptomatic Disease Is Predicted By Distinct Autoimmune Trajectories"
-url_code = "https://github.com/bckwon/dpvis-waterfall"
+url_code = ""
 url_dataset = ""
 url_pdf = "pdf/autoimmune-trajectories.pdf"
 url_project = ""
@@ -24,6 +24,10 @@ video_id = ""
 [[url_custom]]
 name = "Open Access URL"
 url = "https://www.nature.com/articles/s41467-022-28909-1"
+
+[[url_custom]]
+name = "Source Code"
+url = "https://github.com/bckwon/dpvis-waterfall"
 
 
 [header]

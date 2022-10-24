@@ -26,7 +26,7 @@ name = "arXiv"
 url = "https://arxiv.org/abs/1805.10724"
 
 [[url_custom]]
-name = "Code"
+name = "Source Code"
 url = "https://github.com/minjechoi/RetainVis"
 
 [header]

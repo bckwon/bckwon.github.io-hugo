@@ -25,6 +25,10 @@ video_id = ""
 # name = "arXiv"
 # url = "https://arxiv.org/abs/1904.11652"
 
+[[url_custom]]
+name = "Source Code"
+url = "https://github.com/shinminjeong/Roslingifier"
+
 
 [header]
   caption = "Roslingifier can generate animated data stories from temporally changing data using animated bubbles, a natural languagenarrative, visual effects, and temporal branching techniques."
