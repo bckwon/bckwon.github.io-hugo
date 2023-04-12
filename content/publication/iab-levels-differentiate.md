@@ -26,7 +26,7 @@ name = "Open Access URL"
 url = "https://diabetesjournals.org/diabetes/article/71/12/2632/147551/Islet-Autoantibody-Levels-Differentiate"
 
 # [[url_custom]]
-# name = "Source Code"
+# name = "Code"
 # url = "https://github.com/bckwon/dpvis-waterfall"
 
 

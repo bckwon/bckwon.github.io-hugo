@@ -26,7 +26,7 @@ name = "Open Access URL"
 url = "https://www.nature.com/articles/s41467-022-28909-1"
 
 [[url_custom]]
-name = "Source Code"
+name = "Code"
 url = "https://github.com/bckwon/dpvis-waterfall"
 
 

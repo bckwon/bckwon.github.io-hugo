@@ -26,7 +26,7 @@ video_id = ""
 # url = "https://arxiv.org/abs/1904.11652"
 
 [[url_custom]]
-name = "Source Code"
+name = "Code"
 url = "https://github.com/shinminjeong/Roslingifier"
 
 

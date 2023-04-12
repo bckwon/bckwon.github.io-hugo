@@ -26,7 +26,7 @@ name = "arXiv"
 url = "https://arxiv.org/abs/2204.01888"
 
 # [[url_custom]]
-# name = "Source Code"
+# name = "Code"
 # url = ""
 
 [header]
