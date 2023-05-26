@@ -21,7 +21,7 @@ url_bib = "bib/text_highlighting.bib"
 video_id = "136278904"
 
 [[url_custom]]
-name = "Supplementary Material"
+name = "Supplementary"
 url = "pdf/text_highlighting_sup.pdf"
 
 [header]

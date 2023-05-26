@@ -21,7 +21,7 @@ url_bib = "bib/tivy.bib"
 url_webapp = "https://tivy.herokuapp.com"
 
 [[url_custom]]
-name = "Supplementary Material"
+name = "Supplementary"
 url = "pdf/tivy_static.pdf"
 
 [header]
