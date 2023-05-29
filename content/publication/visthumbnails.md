@@ -22,7 +22,7 @@ video_id = ""
 
 [[url_custom]]
 name = "arXiv"
-url = ""
+url = "https://arxiv.org/abs/2305.17051"
 
 [[url_custom]]
 name = "Supplementary"

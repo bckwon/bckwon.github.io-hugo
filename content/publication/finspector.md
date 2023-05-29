@@ -23,7 +23,7 @@ video_id = "829830308"
 
 [[url_custom]]
 name = "arXiv"
-url = ""
+url = "https://arxiv.org/abs/2305.16937"
 
 [[url_custom]]
 name = "Code"
