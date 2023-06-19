@@ -21,6 +21,9 @@ url_video = ""
 url_bib = "bib/cogvislit.bib"
 video_id = ""
 
+[[url_custom]]
+name = "Open Access URL"
+url = "https://www.mdpi.com/2076-3417/9/3/488"
 
 [header]
   caption = "Comparison of Visualization Literacy Assessment Scores between Participants in Low and High Levels of Cognitive Characteristics: i) Need for Cognition; 2) Numeracy."

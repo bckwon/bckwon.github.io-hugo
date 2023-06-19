@@ -18,7 +18,7 @@ url_project = ""
 url_slides = ""
 url_video = "https://vimeo.com/182970712"
 url_bib = "bib/vlat.bib"
-url_webapp = "https://vlat.herokuapp.com"
+url_webapp = "http://bckwon.pythonanywhere.com/"
 video_id = "182970712"
 
 

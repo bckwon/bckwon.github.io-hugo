@@ -1,6 +1,6 @@
 baseurl = "https://bckwon.com"
 title = "Bum Chul Kwon"
-copyright = "&copy; 2019 Bum Chul Kwon"
+copyright = "&copy; 2023 Bum Chul Kwon"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
