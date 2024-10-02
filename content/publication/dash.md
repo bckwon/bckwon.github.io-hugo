@@ -11,6 +11,7 @@ publication_types = ["1"]
 selected = false
 title = "DASH: Visual Analytics for Debiasing Image Classification via User-Driven Synthetic Data Augmentation"
 award = "Honorable Mention"
+url_award = "https://conferences.eg.org/eurovis2022/best-paper-and-best-reviewer-awards/"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/dash.pdf"
