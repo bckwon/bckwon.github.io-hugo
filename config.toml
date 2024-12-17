@@ -1,10 +1,10 @@
 baseurl = "https://bckwon.com"
 title = "Bum Chul Kwon"
-copyright = "&copy; 2023 Bum Chul Kwon"
+copyright = "&copy; 2024 Bum Chul Kwon"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-description = "Bum Chul Kwon, Ph.D. - Researcher of Data Visualization and Visual Analytics @ IBM Research"
+description = "Bum Chul Kwon, Ph.D. - Researcher @ IBM Research"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -128,38 +128,43 @@ defaultContentLanguageInSubdir = false
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fa"
+    icon_pack = "fa-solid fa-envelope"
     link = "mailto:bumchulkwon@gmail.com"
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fa-brands fa-linkedin"
     link = "https://www.linkedin.com/in/bckwon/"
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/bckwon"
+    icon_pack = "fa-brands fa-twitter"
+    link = "https://twitter.com/bckwon"
 
   [[params.social]]
     icon = "google-scholar"
-    icon_pack = "ai"
+    icon_pack = "fa-brands fa-google-scholar"
     link = "https://scholar.google.com/citations?user=5jIJb38AAAAJ"
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/bckwon"
+    icon_pack = "fa-brands fa-github"
+    link = "https://github.com/bckwon"
 
   [[params.social]]
     icon = "researchgate"
-    icon_pack = "ai"
+    icon_pack = "fa-brands fa-researchgate"
     link = "https://www.researchgate.net/profile/Bum_Chul_Kwon"
 
   [[params.social]]
     icon = "orcid"
-    icon_pack = "ai"
+    icon_pack = "fa-brands fa-orcid"
     link = "https://orcid.org/0000-0002-9391-6274"
+
+  [[params.social]]
+    icon = "Bluesky"
+    icon_pack = "fa-brands fa-bluesky"
+    link = "https://bsky.app/profile/bckwon.bsky.social"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

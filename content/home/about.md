@@ -14,9 +14,11 @@ weight = 1
   interests = [
     "Data Visualization",
     "Visual Analytics",
-    "Machine Learning",
+    "Artificial Intelligence",
+    "Biomedical Science",
+    "Chemical Informatics",
     "Healthcare",
-    "Human-Computer Interaction"
+    "Human-AI Collaboration",
   ]
 
 # List your qualifications (such as academic degrees).
