@@ -14,11 +14,9 @@ weight = 1
   interests = [
     "Data Visualization",
     "Visual Analytics",
+    "Human-AI Interaction",
     "Artificial Intelligence",
-    "Biomedical Science",
-    "Chemical Informatics",
-    "Healthcare",
-    "Human-AI Collaboration",
+    "AI for Medicine and Healthcare",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,7 +31,7 @@ weight = 1
   year = "2017 - Present"
 
 [[work.courses]]
-  course = "Postdoc Researcher"
+  course = "Postdoctoral Researcher"
   institution = "Universität Konstanz, Konstanz, Germany"
   year = "2013 - 2015"
 

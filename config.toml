@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   role = "Research Scientist"
   organization = "IBM Research"
   organization_url = ""
-  avatar = "bckwon.png"
+  avatar = "bckwon.jpg"
   email = "bumchulkwon@gmail.com"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -136,10 +136,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa-brands fa-linkedin"
     link = "https://www.linkedin.com/in/bckwon/"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa-brands fa-twitter"
-    link = "https://twitter.com/bckwon"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa-brands fa-twitter"
+#    link = "https://twitter.com/bckwon"
 
   [[params.social]]
     icon = "google-scholar"
