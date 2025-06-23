@@ -53,7 +53,7 @@ weight = 1
 #  year = "2013 - 2015"
 
 [[education.courses]]
-  course = "Ph.D. in Data Visualization"
+  course = "Ph.D. in Industrial Engineering"
   institution = "Purdue University, West Lafayette, IN"
   year = 2013
 
